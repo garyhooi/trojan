@@ -1,6 +1,6 @@
 FROM centos:7
 
-LABEL maintainer="Jrohy <euvkzx@Jrohy.com>"
+LABEL maintainer="Gary Hooi <gary.hooi@gmail.com>"
 
 ARG VERSION_CHECK="https://api.github.com/repos/garyhooi/trojan/releases/latest"
 
